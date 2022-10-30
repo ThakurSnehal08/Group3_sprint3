@@ -37,7 +37,7 @@ death_year string,
 manner_of_death string,
 age_of_death string
 );
-drop table agedata;
+
 list @my_s3_stage;
 
 
